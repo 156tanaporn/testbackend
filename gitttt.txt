@@ -1,0 +1,21 @@
+//--git new--//
+
+git init
+ls
+cd .git
+cd ..
+git remote add origin https://github.com/156tanaporn/testbackend.git
+git branch -M master
+git add .
+git commit -m "123"
+git push 
+
+
+//--git update--/
+git pull
+
+git branch test
+git branch
+git add .
+git commit -m "321"
+git push
