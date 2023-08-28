@@ -1,0 +1,25 @@
+#ขั้นตอนgit
+git init
+ls
+cd .git
+cd ..
+git remote           เอามาจากgit เรา
+git branch -M        ตามด้วยชื่อbranchที่ต้องการ
+git  add .
+git  commit -m      “ชื่อที่เราต้องการได้”
+git                  เมลตามที่git
+git user             ตามที่gitแนะนำ
+git  commit -m      “ชื่อที่เราต้องการได้”
+git push
+git push set up      ตามที่gitแนะนำ
+
+#สร้างbranchลอง
+git branch           ขื่อbranchรอง
+git branch
+git branch checkout  ชื่อbranch
+git branch
+git add.
+git commit -m        “ชื่อไฟล์”
+git push 
+git push setup       ตามที่แนะนำ
+git pull
