@@ -25,4 +25,6 @@ git push setup      ตามที่แนะนำ
 git pull
 
 #git merge
-
+git checkout branch ที่ต้องการ merge เข้า
+git -branch ที่ต้องการ merge เข้า- -branch ที่จะ merge เข้าหลัก
+git push
